@@ -1,0 +1,10 @@
+{
+  "project": "PRESTASHOP_PRIOR_DOCS",
+  "category": "ONLINE_RETAIL",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\ONLINE_RETAIL\\PRESTASHOP_PRIOR_DOCS",
+  "status": "bench_timeout",
+  "reason": "exceeded 600s cap",
+  "files_count": null,
+  "lines_of_code": null,
+  "sha": null
+}
